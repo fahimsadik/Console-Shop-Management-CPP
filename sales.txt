@@ -1,0 +1,31 @@
+
+04:31:17 AM, Tuesday, April 04, 2023 minhas  Apple 0.5 4 2
+04:39:57 AM, Tuesday, April 04, 2023 minhas  Orange 0.45 3 1.35 
+04:44:23 AM, Tuesday, April 04, 2023 minhas  saua 45 4 180 
+04:54:21 AM, Tuesday, April 04, 2023 minhas  Apple 0.5 1 0.5 
+04:55:06 AM, Tuesday, April 04, 2023 minhas  Apple 0.5 1 0.5 
+04:59:22 AM, Tuesday, April 04, 2023 minhas  Apple 0.25 1 0.25 
+05:02:33 AM, Tuesday, April 04, 2023 minhas  Apple 0.25 2 0.5 
+05:11:11 AM, Tuesday, April 04, 2023 minhas  Apple 0.5 1 0.5 
+05:12:06 AM, Tuesday, April 04, 2023 minhas  Apple 0.5 4 2  Apple 0.5 1 0.5 
+05:15:01 AM, Tuesday, April 04, 2023 minhas  Apple 0.5 1 0.5  Apple 0.5 2 1 
+05:16:27 AM, Tuesday, April 04, 2023 minhas  Apple 0.5 1 0.5  Apple 0.5 2 1 
+05:17:11 AM, Tuesday, April 04, 2023 minhas  Apple 0.5 2 1 
+11:36:37 AM, Tuesday, April 04, 2023 minhas  Apple 0.5 1 0.5  Banana 0.25 4 1 
+12:06:51 PM, Tuesday, April 04, 2023 minhas  Apple 0.5 1 0.5  Apple 0.5 2 1 
+12:09:48 PM, Tuesday, April 04, 2023 minhas  Orange 0.75 1 0.75  Orange 0.75 2 1.5 
+12:28:09 PM, Tuesday, April 04, 2023 minhas  Apple 0.5 5 1  Orange 0.75 1 0.75 
+02:11:36 PM, Tuesday, April 04, 2023 minhas  Apple 0.5 6 2  Orange 0.75 1 0.75 
+12:40:53 AM, Wednesday, May 10, 2023 minhas  Banana 0.25 4 1 
+12:45:34 AM, Wednesday, May 10, 2023 minhas  Apple 0.5 4 2 
+12:52:54 AM, Wednesday, May 10, 2023 minhas  Apple 0.5 1 0.5 
+01:03:19 AM, Wednesday, May 10, 2023 minhas  Banana 0.25 2 0.5 
+01:04:07 AM, Wednesday, May 10, 2023 minhas  Apple 0.5 3 1.5 
+01:20:47 AM, Wednesday, May 10, 2023 minhas  Banana 0.25 3 0.75 
+07:13:27 PM, Wednesday, May 10, 2023 fahim 
+07:16:17 PM, Wednesday, May 10, 2023 fahim  Apple 0.5 3 1.5  Banana 0.25 1 0.25 
+
+11:21:11 PM, Wednesday, May 10, 2023 fahim  Apple 0.999 1 0.999 
+11:21:57 PM, Wednesday, May 10, 2023 fahim 
+11:23:33 PM, Wednesday, May 10, 2023 fahim  Apple 0.999 3 2.997  Banana 0.25 3 0.75 
+12:22:05 AM, Saturday, August 09, 2025 fahim  Apple 0.999 2 1.998 

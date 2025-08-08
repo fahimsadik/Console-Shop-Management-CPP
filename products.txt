@@ -1,0 +1,14 @@
+Apple 0.999 65
+Banana 0.25 224
+Guava 0.35 16
+Pineapple 0.29 165
+Grapes 0.56 16
+Jackfruit 0.66 84
+Lichi 0.52 162
+Orange 0.95 14
+Leamon 0.25 22
+DragoonFruit 0.5 352
+Strawberry 0.225 444
+Bangi 0.54 654
+Cucumber 0.33 68
+tomato 0.05 45
